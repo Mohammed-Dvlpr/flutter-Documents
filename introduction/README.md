@@ -139,14 +139,50 @@ Git
 GitHub
 
 # 5/8/24
-
 _layout
+
 layout_multiple_wid_ver_hor.dart
 building_a_flutter_layout
 
 # 6/8/24
+creating_app_theme 
 
-creating an app theme 
+{
+theme 
+theme for widgets 
+}
+interactivity app
+
+GestureDetechtor
+inkwel
+swipe to dismiss
+styke and themes 
+texteditting_controler()
+onChange_callBack()
+onChange example
+
+
+
+# 7/8/24
+figma autoLayout 
+
+
+
+
+# 8/8/24
+Navigation and routing 
+
+add_tab_to _app.dart
+Navigate to a new screen and back
+
+
+
+
+
+
+
+
+
 
 
 

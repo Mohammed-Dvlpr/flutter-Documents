@@ -7,11 +7,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Scaffold(
-        body: _MyApp(),
-      ),
-    );
+    return MaterialApp(home: _MyApp());
   }
 }
 
@@ -23,6 +19,6 @@ class _MyApp extends StatefulWidget {
 class _MyAppState extends State<_MyApp> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold();
   }
 }
